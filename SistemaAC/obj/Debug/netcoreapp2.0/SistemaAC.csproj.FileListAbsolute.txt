@@ -1,0 +1,12 @@
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojAssemblyReference.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+D:\CursosOnLine\Udemy\ASP_NetCore\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
